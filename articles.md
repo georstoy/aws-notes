@@ -1,0 +1,1 @@
+[Hey CDK! by Philipp Garbe](https://garbe.io/blog/2020/01/21/hey-cdk-how-to-use-tags-in-custom-constructs/)
